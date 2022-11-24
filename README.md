@@ -1,2 +1,2 @@
 # .github
-Organisation front page
+Organisation front page.
